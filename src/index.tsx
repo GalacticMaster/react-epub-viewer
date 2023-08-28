@@ -9,7 +9,7 @@ interface Props {
 
 const App = ({ VIEWER_TYPE = 'ReactViewer' }: Props) => {
   const EPUB_URL =
-    '/react-epub-viewer/files/Alices Adventures in Wonderland.epub';
+    'https://galacticmaster.github.io/lilacharitra/epubjs-reader-master/reader/Amhi%20purvardh.epub';
   const ref = useRef<ViewerRef>(null);
 
   return (
