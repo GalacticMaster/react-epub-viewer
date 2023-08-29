@@ -30530,7 +30530,7 @@ function () {
         })
     };
     e.render((0, Ct.jsx)(Za, {
-            url: "https://drive.google.com/file/d/155UQdP647BT6yViRVi5wVPT2NHhBeDo6/view?usp=sharing"
+            url: "https://galacticmaster.github.io/react-epub-viewer/%E0%A4%97%E0%A4%BF%E0%A4%A4%E0%A4%BE.pdf"
         }), document.getElementById("root"))
 }
 ()
